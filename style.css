@@ -91,6 +91,7 @@ body{
     background-color: #1A1C28;
     width: 50%;
     padding: 40px 60px;
+    margin: auto;
 }
 .item1 {
     grid-column: 1 / span 3;
